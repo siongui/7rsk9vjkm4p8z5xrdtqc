@@ -266,9 +266,9 @@ Video & Audio (影音)
   (Thai)
   (`chanting audio mirror <content/audio/ForestMeditation/pali_chants.zip>`__)
 
-- `智行尊者 <http://www.taiwandipa.org.tw/index.php?url=30-301&prg_no=c&start=1>`_,
-  `Google+ <https://plus.google.com/114611962996628560276>`__
-  (`YouTube <https://www.youtube.com/watch?v=d4n_NoGXYXM>`__)
+- `智行尊者 <http://www.taiwandipa.org.tw/index.php?url=30-301&prg_no=c&start=1>`_
+  (`Google+ <https://plus.google.com/114611962996628560276>`__,
+  `YouTube <https://www.youtube.com/watch?v=d4n_NoGXYXM>`__)
 
   - `S-22+886-01_20080922PM：晚課誦經：釋道中錄音.mp3 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2008%2FTTBC%3B%B1%DF%BD%D2>`__
     (`mirror <content/audio/nyanacara/S-22_886-01_20080922PM.mp3>`__)
