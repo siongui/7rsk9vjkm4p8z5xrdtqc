@@ -295,6 +295,8 @@ Video & Audio (影音)
     `7 <content/audio/nyanacara/06Saturday.mp3>`__,
     `8 <content/audio/nyanacara/07Sunday.mp3>`__)
 
+  - `晚課 <content/audio/nyanacara/k991-0.mp3>`__
+
 - `Buddhist Chanting - Thai Traditional Way <http://www.mybuddha108.com/viideo_link.html>`_
 
 - `motionclip88 - YouTube <https://www.youtube.com/user/motionclip88>`_
