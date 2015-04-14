@@ -267,13 +267,24 @@ Video & Audio (影音)
   (`chanting audio mirror <content/audio/ForestMeditation/pali_chants.zip>`__)
 
 - `智行尊者 <http://www.taiwandipa.org.tw/index.php?url=30-301&prg_no=c&start=1>`_
-  (`Google+ <https://plus.google.com/114611962996628560276>`__,
-  `YouTube <https://www.youtube.com/watch?v=d4n_NoGXYXM>`__)
+  (`Bhante U Nyanacara <http://www.buddha.sg/htm/people/nyanacara.htm>`_,
+  `Google+ <https://plus.google.com/114611962996628560276>`__,
+  `吉祥經開示 <https://www.youtube.com/watch?v=d4n_NoGXYXM>`_)
 
-  - `S-22+886-01_20080922PM：晚課誦經：釋道中錄音.mp3 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2008%2FTTBC%3B%B1%DF%BD%D2>`__
-    (`mirror <content/audio/nyanacara/S-22_886-01_20080922PM.mp3>`__)
+  - `TTBC Chanting (學院課誦) <http://www.taiwandipa.org.tw/images/k/k991-0.mp3>`__
+    (`mirror <content/audio/nyanacara/k991-0.mp3>`__)
 
-  - `新化佛顓寺;6月禪修營誦經 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2009%2F%B7s%A4%C6%A6%F2%C3F%A6x%3B6%A4%EB%C1I%AD%D7%C0%E7%BBw%B8g>`_
+  - `智行尊者早晚課巴利課誦(24k唱誦版) <http://1drv.ms/1NBocnM>`_
+    (Mirror `1 <content/audio/nyanacara/00EveryMorning.mp3>`__,
+    `2 <content/audio/nyanacara/01Monday.mp3>`__,
+    `3 <content/audio/nyanacara/02Tuesday.mp3>`__,
+    `4 <content/audio/nyanacara/03Wednesday.mp3>`__,
+    `5 <content/audio/nyanacara/04Thursday.mp3>`__,
+    `6 <content/audio/nyanacara/05Friday.mp3>`__,
+    `7 <content/audio/nyanacara/06Saturday.mp3>`__,
+    `8 <content/audio/nyanacara/07Sunday.mp3>`__)
+
+  - `2009年 新化佛顓寺;6月禪修營誦經 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2009%2F%B7s%A4%C6%A6%F2%C3F%A6x%3B6%A4%EB%C1I%AD%D7%C0%E7%BBw%B8g>`_
     (Mirror `1 <content/audio/nyanacara/DS650062.mp3>`__,
     `2 <content/audio/nyanacara/DS650068.mp3>`__,
     `3 <content/audio/nyanacara/DS650070.mp3>`__,
@@ -287,16 +298,8 @@ Video & Audio (影音)
     `11 <content/audio/nyanacara/DS650082.mp3>`__,
     `12 <content/audio/nyanacara/DS650087.mp3>`__)
 
-  - (Mirror `1 <content/audio/nyanacara/00EveryMorning.mp3>`__,
-    `2 <content/audio/nyanacara/01Monday.mp3>`__,
-    `3 <content/audio/nyanacara/02Tuesday.mp3>`__,
-    `4 <content/audio/nyanacara/03Wednesday.mp3>`__,
-    `5 <content/audio/nyanacara/04Thursday.mp3>`__,
-    `6 <content/audio/nyanacara/05Friday.mp3>`__,
-    `7 <content/audio/nyanacara/06Saturday.mp3>`__,
-    `8 <content/audio/nyanacara/07Sunday.mp3>`__)
-
-  - `晚課 <content/audio/nyanacara/k991-0.mp3>`__
+  - `2008年 S-22+886-01_20080922PM：晚課誦經：釋道中錄音.mp3 <http://ttbc.ddns.net/index.php?dir=%A4U%B8%FC3%2F%BF%FD%AD%B5%2F%A4W%AEy%B3%A1%BE%C7%B0%7C%BC%D0%B7%C7MP3%A4j%C0%C9%2Fnaynacara%3B%B4%BC%A6%E6%B4L%AA%CC%2F2008%2FTTBC%3B%B1%DF%BD%D2>`__
+    (`mirror <content/audio/nyanacara/S-22_886-01_20080922PM.mp3>`__)
 
 - `Buddhist Chanting - Thai Traditional Way <http://www.mybuddha108.com/viideo_link.html>`_
 
