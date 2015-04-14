@@ -292,8 +292,8 @@ Video & Audio (影音)
     `4 <content/audio/nyanacara/03Wednesday.mp3>`__,
     `5 <content/audio/nyanacara/04Thursday.mp3>`__,
     `6 <content/audio/nyanacara/05Friday.mp3>`__,
-    `7 <content/audio/nyanacara/06Saturday.mp3`__,
-    `8 <content/audio/nyanacara/07Sunday.mp3`__)
+    `7 <content/audio/nyanacara/06Saturday.mp3>`__,
+    `8 <content/audio/nyanacara/07Sunday.mp3>`__)
 
 - `Buddhist Chanting - Thai Traditional Way <http://www.mybuddha108.com/viideo_link.html>`_
 
