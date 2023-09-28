@@ -434,6 +434,51 @@ Video & Audio (影音)
     + `寧靜的森林水池 <http://www.buddhist.idv.tw/FTP/%E6%B3%95%E5%AF%B6%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BC%89/%E5%85%A7%E8%A7%80%E8%88%87%E5%8D%97%E5%82%B3%E4%BD%9B%E6%B3%95/%E5%AF%A7%E9%9D%9C%E7%9A%84%E6%A3%AE%E6%9E%97%E6%B0%B4%E6%B1%A0%28%E9%98%BF%E5%A7%9C%E6%9F%A5%29.pdf>`_
 
 
+戒律
+++++
+
+- 上座部比丘戒經與註釋
+
+  + 全集
+
+    * http://ftp.budaedu.org/publish/C4/CH41/CH414-01-01-001.PDF
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%85%A8%E4%B8%80%E9%9B%86/CH414-01-01-001.PDF>`__)
+
+  + 分集
+
+    * https://www.buddhistelibrary.org/zh/albums/central/Dhamma/Pati_Cover.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati_Cover.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati.Content.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati.Content.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati-forword.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati-forword.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati-forword2.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati-forword2.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati1.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati1.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati2.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati2.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati3.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati3.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati4.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati4.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati5.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati5.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati6.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati6.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati7.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati7.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati8.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati8.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati9.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati9.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati10.pdf
+      ( https://www.buddhistelibrary.org/zh/albums/central/Dhamma/Pati10.pdf )
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati10.pdf>`__)
+    * https://www.buddhistelibrary.org/zh/albums/central/Longzan2/Pati-Index.pdf
+      (`PDF mirror <https://siongui.github.io/7rsk9vjkm4p8z5xrdtqc/books/vinaya/%E4%B8%8A%E5%BA%A7%E9%83%A8%E6%AF%94%E4%B8%98%E6%88%92%E7%B6%93%E8%88%87%E8%A8%BB%E9%87%8B/%E5%88%86%E9%9B%86/Pati-Index.pdf>`__)
+
+
 .. _Pāli: http://en.wikipedia.org/wiki/Pali
 
 .. _巴利: http://zh.wikipedia.org/zh-tw/%E5%B7%B4%E5%88%A9%E8%AF%AD
